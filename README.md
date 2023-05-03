@@ -7,6 +7,7 @@
 
   <h3 align="center">Easy Consulting</h3>
 
+</div>
 
 ## Tech Stack
 - [React](https://facebook.github.io/react/)
