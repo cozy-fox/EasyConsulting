@@ -50,7 +50,7 @@ const Footer = () => {
                 <FooterCol key="3" menuItems={ourServices} title="OUR SERVICES"/>
                 <FooterCol key="4" menuItems={otherLinks} title="OTHER LINKS"/>
             </Row>
-            <p className="copyRight">Copyright &copy; 2021 <span className="fHighlight">Ujjal zaman</span>. All rights reserved.</p>
+            <p className="copyRight">Copyright &copy; 2021 <span className="fHighlight">Peter Paker</span>. All rights reserved.</p>
         </section>
     );
 };
